@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - leaf
+  - rashes
+  - ArmBandage
+  - talebandage
+  - mouth
+  - HeadBandage
+  - rat
+  - Crack
+  - Undefined
+  - Paste
+  - WaterVapors
+  - TigerBody
+  - Spoon
+  - Bone2
+  - Bone3
+  - Bone4
+  - Plate
+  - Medicine
+  - Bone1
+  - X
+  - Bone5
+  - MedicineMouthPoint
+  - eatingItems
+  - Animal
+  - eatingItem
+  - TeethLowerDirt
+  - ToothBrush
+  - Towel
+  - DirtPicker
+  - TeethDirt
+  - LotionAbovePoint
+  - Shower
+  - Lotion
+  - Sponge
+  - Mirror
+  - TeethUpperDirt
+  - MirrorCheckPoint
+  - meat
+  - Picker
+  - stomachobjects
+  - trash
+  - Cut
+  - Injection
+  - rattrap
+  - tweeker
+  - InjectionUsed
+  - Plaster
+  - scanner
+  - scannercheckpoint
+  - InjectionHitPoint
+  - rashgerm3
+  - rashgerm1
+  - rashgerm2
+  - bandage
+  - Thorn1
+  - Thorn3
+  - Thorn4
+  - rashcream
+  - Thorn5
+  - rashbrush
+  - Thorn2
+  - tray
+  - Pimple
+  - RightEye
+  - Brush
+  - EyeDropper
+  - LeftEye
+  - Hurdle
+  - CrossHurdle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
