@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>983046106613-ub799d4gvq3cqj7tso4r4ed1oe0p4vh5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.983046106613-ub799d4gvq3cqj7tso4r4ed1oe0p4vh5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAzUUyvAL6KpFdo5ht_bre4sAhjN6VQO3Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>983046106613</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.uzmahanif.petcare.cat.games.pet</string>
+	<key>PROJECT_ID</key>
+	<string>ios-pet-hospital</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-pet-hospital.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:983046106613:ios:9d93d44d71960118be04bc</string>
+</dict>
+</plist>
